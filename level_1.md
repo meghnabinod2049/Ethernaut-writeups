@@ -1,8 +1,10 @@
 -The fallback() function contained the lined
+
 `if (contributions[msg.sender] > 0) {
     owner = msg.sender;
 }
 `
+
 -Understood that if we send ether directly to the contract and we alreadty have a contribution, we can become the owner
 `
 await contract.contribute.sendTransaction({ from: player, value: 1 });
