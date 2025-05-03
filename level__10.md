@@ -6,4 +6,4 @@
 
 -In the attacker’s contract’s receive function, it immediately calls withdraw again before the balance is updated, allowing it to withdraw the same funds multiple times.
 
--This process continues in a loop, allowing the attacker to drain all the funds from the original contract.
+-This process continues in a loop, allowing the attacker to drain all the funds from the original contract. 
