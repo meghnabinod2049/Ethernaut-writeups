@@ -5,7 +5,7 @@
 }
 `
 
--Understood that if we send ether directly to the contract and we alreadty have a contribution, we can become the owner
+-Understood that if we send ether directly to the contract and we already have a contribution, we can become the owner
 
 `
 await contract.contribute.sendTransaction({ from: player, value: 1 });
