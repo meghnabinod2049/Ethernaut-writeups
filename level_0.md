@@ -9,3 +9,5 @@
 -Called the method using `await contract.password()` and it returned the password ethernaut0
 
 -In order to authenticate the function, I used `await contract.authenticate("ethernaut0,{from:player})`
+
+-Approved the transaction and submitted the instance
