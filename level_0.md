@@ -10,4 +10,4 @@
 
 -In order to authenticate the function, I used `await contract.authenticate("ethernaut0,{from:player})`
 
--Approved the transaction and submitted the instance
+-Approved the transaction and submitted the instance 
