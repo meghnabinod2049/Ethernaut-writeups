@@ -5,4 +5,4 @@ it causes DoubleEntryPoint to transfer DET tokens (wrongly) from the vault to a 
 
 -We should deploy a detection bot that will watch `delegateTransfer()` calls 
 
-Was not able to complete this
+Was not able to complete this 
