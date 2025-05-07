@@ -10,4 +10,4 @@
 
 - By calling `upgradeToAndCall()` we can replace the Engine's logic with the self destruct contract
 
-- When the engine is destroyed and the proxy doesn't work, we completed the level.
+  
