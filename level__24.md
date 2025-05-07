@@ -8,7 +8,4 @@
 But we can nest multicalls inside multicall to trick the contract into depositing twice with only one actual ETH payment.
 This doubles our internal balance without increasing contract balance
 
--We can use `execute()` to transfer all the ETH from contract to our wallet
-
--The proxy’s admin is in the same storage slot as the wallet’s maxBalance.
-Now that the contract balance is 0, we can call `setMaxBalance(player)` to become admin
+-Was not able to complete this
